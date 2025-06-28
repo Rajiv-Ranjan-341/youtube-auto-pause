@@ -52,4 +52,3 @@ Or, if inline:
 ## Compatibility
 
 - Modern browsers that support the Page Visibility API.
-
